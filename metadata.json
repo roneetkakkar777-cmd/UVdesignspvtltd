@@ -1,0 +1,8 @@
+{
+  "name": "UV Desizns Pvt Ltd",
+  "description": "Luxury commercial, corporate, and retail interior design and architectural execution showcase for UV Desizns Pvt Ltd.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

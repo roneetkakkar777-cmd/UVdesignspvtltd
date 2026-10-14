@@ -91,7 +91,7 @@ const PopupForm = () => {
       } else {
         setStatus("error");
       }
-    } catch (err) {
+    } catch {
       setStatus("error");
     }
   };
